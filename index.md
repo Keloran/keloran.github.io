@@ -1,11 +1,11 @@
 ## Current Projects
-* [minecraft-query](://github.com/keloran/minecraft-query)
-* [CarPark.Ninja](://github.com/carprks)
-* [BugFix.es](://github.com/bugfixes)
+* [minecraft-query](https://github.com/keloran/minecraft-query)
+* [CarPark.Ninja](https://github.com/carprks)
+* [BugFix.es](https://github.com/bugfixes)
 
 ---
 ### Minecraft Query
-This is a essentially a port of [PHP-Minecraft-Query](://github.com/xpaw/php-minecraft-query) from xPaw
+This is a essentially a port of [PHP-Minecraft-Query](https://github.com/xpaw/php-minecraft-query) from xPaw
 but in go, it works for Java at the moment, but will be made to work with bedrock too
 
 ###  CarPark.Ninja
