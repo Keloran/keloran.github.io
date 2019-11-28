@@ -1,9 +1,3 @@
-### Current Projects
-* [Minecraft Query](/projects/current/minecraft-query.html)
-* [CarPark.Ninja](/projects/current/carpark.ninja.html)
-* [BugFix.es](/projects/current/bugfix.es.html)
-
----
 ### Static Generator
 Started a index generator, all it does is reads the projects and blog directory,
 * if there are pages in the project folder
