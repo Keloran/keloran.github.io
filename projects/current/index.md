@@ -1,23 +1,38 @@
 ### Current Projects
-* [Minecraft Query](/./projects/current/minecraft-query.html)
 * [CarPark.Ninja](/./projects/current/carpark.ninja.html)
-* [BugFix.es](/./projects/current/bugfix.es.html)
+* [Minecraft Query](/./projects/current/minecraft-query.html)
+* [Static Generator](/./projects/current/staticg.html)
 
 ---
-### Static Generator
-Started a index generator, all it does is reads the projects and blog directory,
-* if there are pages in the project folder
-  * current folder, add to that section
-  * past folder, add to that section
-* if its in blog folder it adds those to that section
+## BugFix.es
+This is a bug tracking system, any time an error happens on your site it tells bugfixes in the agent for your language, 
 
-Very simple, I'll add more features in future, but this is just very simple
+then if the error occurs quickly or once in a while it informs the user some how
 
-#### Future plans
-* Make it a simple editor, that generates the files themselves
-* Generate HTML pages from the CommonMark so that can be hosted outside of github.io
+nothing is public yet (the javascript version released needs fixing)
+
+```
+Current languages supported
+* Go
+* Javascript
+* Swift
+```
+
+```
+Current notification systems
+* Auto-create tickets
+    * Jira
+    * YouTrack
+    * GitHub
+* Channel messages
+    * Slack
+    * Microsoft Teams
+* Email
+```
 
 ---
-[GitHub Link](https://github.com/keloran/staticg)
----
+[GitHub Link](https://github.com/bugfixes)
+--
+[Company Site](https://bugfix.es)
+--
 [Home](/)
