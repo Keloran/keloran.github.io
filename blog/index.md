@@ -1,4 +1,5 @@
 ### Blog
+* [Basic Editor](/./blog/basic_editor.html)
 
 ---
 ### Static Generator
