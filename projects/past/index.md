@@ -1,1 +1,3 @@
 ### Past Projects
+
+[Home](/)
