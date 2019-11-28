@@ -1,4 +1,5 @@
 ### Blog
+
 ---
 ### Static Generator
 Started a index generator, all it does is reads the projects directory, 
