@@ -1,4 +1,4 @@
-##  CarPark.Ninja
+## CarPark.Ninja
 This is a carparking platform so that you can easily choose a contract carpark near where you work before you start your job, or have to find the details from a random poster, 
 
 get the price of the contact before you send your details, rather than getting spammed constantly if you decide not to take it

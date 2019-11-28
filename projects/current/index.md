@@ -1,6 +1,6 @@
 ### Current Projects
-* [ CarPark.Ninja](/projects/current/carpark.ninja.md)
-* [BugFix.es  ](/projects/current/bugfix.es.md)
+* [CarPark.Ninja](/projects/current/carpark.ninja.html)
+* [BugFix.es](/projects/current/bugfix.es.html)
 ---
 ## Minecraft Query
 This is a essentially a port of [PHP-Minecraft-Query](https://github.com/xpaw/php-minecraft-query) from xPaw

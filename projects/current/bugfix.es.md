@@ -1,4 +1,4 @@
-## BugFix.es  
+## BugFix.es
 This is a bug tracking system, any time an error happens on your site it tells bugfixes in the agent for your language, 
 
 then if the error occurs quickly or once in a while it informs the user some how
