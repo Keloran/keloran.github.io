@@ -1,5 +1,5 @@
 ## Current Projects
-* [minecraft-query](/projects/minecraft-query)
-* [CarPark.Ninja](/projects/carpark.ninja)
-* [BugFix.es](/projects/bugfix.es)
+* [minecraft-query](/projects/current/minecraft-query.md)
+* [CarPark.Ninja](/projects/current/carpark.ninja.md)
+* [BugFix.es](/projects/current/bugfix.es.md)
 
