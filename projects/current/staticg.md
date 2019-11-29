@@ -10,7 +10,7 @@ Very simple, I'll add more features in future, but this is just very simple
 Added a very simple editor
 
 #### Future plans
-* --Make it a simple editor, that generates the files themselves--
+* ~~Make it a simple editor, that generates the files themselves~~
 * Generate HTML pages from the CommonMark so that can be hosted outside of github.io
 
 ---
