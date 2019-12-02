@@ -1,6 +1,7 @@
 ### [Blog](/blog)
-* [Basic Editor](/./blog/basic_editor.md)
+* [Going back to BugFix.es](/./blog/going_back_to_bugfix.es.md)
 * [Static Generator](/./blog/static.md)
+* [Basic Editor](/./blog/basic_editor.md)
 
 
 ### [Current Projects](/projects/current)

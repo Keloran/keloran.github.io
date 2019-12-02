@@ -1,8 +1,3 @@
-### Blog
-* [Static Generator](/./blog/static.html)
-* [Basic Editor](/./blog/basic_editor.html)
-
----
 ### Going back to BugFix.es
 I have decided to go back to BugFix.es and re-start development
 
