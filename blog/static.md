@@ -1,4 +1,5 @@
 ### Static Generator
+#### 2019-11-28
 Started a index generator, all it does is reads the projects and blog directory,
 * if there are pages in the project folder
   * current folder, add to that section

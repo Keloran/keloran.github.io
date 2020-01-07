@@ -1,4 +1,5 @@
 ### Basic Editor
+#### 2019-11-28
 Added a very (stupidly simple) editor to static generator
 
 All it does is let me create new entires, doesn't allow editor, if I make a mistake I have to start again

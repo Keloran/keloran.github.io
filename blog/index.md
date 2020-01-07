@@ -1,10 +1,11 @@
 ### Blog
 * [Going back to BugFix.es](/./blog/going_back_to_bugfix.es.html)
-* [Basic Editor](/./blog/basic_editor.html)
 * [Static Generator](/./blog/static.html)
+* [Basic Editor](/./blog/basic_editor.html)
 
 ---
 ### BugFix.es Progress
+#### 2020-01-07
 Progress has been slow to start with, but that should now speed up
 
 I have finished the authorizer, and moved the storage system to Postgres from Dynamo, the main reason for that is that a lot of the data is relational

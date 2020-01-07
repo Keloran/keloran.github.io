@@ -1,8 +1,8 @@
 ### [Blog](/blog)
 * [BugFix.es Progress](/./blog/bugfix.es_progress.md)
 * [Going back to BugFix.es](/./blog/going_back_to_bugfix.es.md)
-* [Basic Editor](/./blog/basic_editor.md)
 * [Static Generator](/./blog/static.md)
+* [Basic Editor](/./blog/basic_editor.md)
 
 
 ### [Current Projects](/projects/current)
