@@ -1,20 +1,40 @@
 ### Current Projects
-* [Minecraft Query](/./projects/current/minecraft-query.html)
 * [Static Generator](/./projects/current/staticg.html)
-* [BugFix.es](/./projects/current/bugfix.es.html)
+* [CarPark.Ninja](/./projects/current/carpark.ninja.html)
+* [Minecraft Query](/./projects/current/minecraft-query.html)
 
 ---
-## CarPark.Ninja
-This is a carparking platform so that you can easily choose a contract carpark near where you work before you start your job, or have to find the details from a random poster, 
+## BugFix.es
+This is a bug tracking system, any time an error happens on your site it tells bugfixes in the agent for your language,
 
-get the price of the contact before you send your details, rather than getting spammed constantly if you decide not to take it
+then if the error occurs quickly or once in a while it informs the user some how
 
-also it has the option of what is JustPark (I didn't know this existed, and once I found out competion is always good)
+nothing is public yet (the javascript version released needs fixing)
+
+```
+Planned languages supported
+* Go
+* Javascript
+* Swift
+```
+
+```
+Planned notification systems
+* Auto-create tickets
+    * Jira
+    * YouTrack
+    * Jetbrains Space
+    * GitHub
+* Channel messages
+    * Slack
+    * Microsoft Teams
+    * Jetbrains Space
+* Email
+```
 
 ---
-[GitHub Link](https://github.com/carprks)
+[GitHub Link](https://github.com/bugfixes)
 --
-[Company Site](https://carpark.ninja)
+[Company Site](https://bugfix.es)
 --
 [Home](/)
-

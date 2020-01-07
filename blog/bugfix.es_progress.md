@@ -10,5 +10,6 @@ This is the service where all CRUD operations take place, it is also what trigge
 ### Hive
 This is the service that works out what to do with a bug, is it a new one, has it happened before, is it happening frequently, it also triggers the notification system
 
-I estimate that an end-to-end system with Slack as the notification result will be in place at the start of Feb---
+I estimate that an end-to-end system with Slack as the notification result will be in place at the start of Feb
+
 [Home](/)
