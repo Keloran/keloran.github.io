@@ -19,4 +19,7 @@ This is the service that works out what to do with a bug, is it a new one, has i
 
 I estimate that an end-to-end system with Slack as the notification result will be in place at the start of Feb
 
+---
+[Github Link](https://github.com/bugfixes)
+--
 [Home](/)

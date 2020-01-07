@@ -20,6 +20,6 @@ I am also in the process of creating the API side again (it was very much unmain
 Once the brain is trained I will open the API up the public
 
 ---
-[Company Link](https://bugfix.es)
+[Github Link](https://github.com/bugfixes)
 --
 [Home](/)
