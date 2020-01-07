@@ -1,25 +1,20 @@
 ### Current Projects
 * [Minecraft Query](/./projects/current/minecraft-query.html)
-* [CarPark.Ninja](/./projects/current/carpark.ninja.html)
+* [Static Generator](/./projects/current/staticg.html)
 * [BugFix.es](/./projects/current/bugfix.es.html)
 
 ---
-### Static Generator
-Started a index generator, all it does is reads the projects and blog directory,
-* if there are pages in the project folder
-  * current folder, add to that section
-  * past folder, add to that section
-* if its in blog folder it adds those to that section
+## CarPark.Ninja
+This is a carparking platform so that you can easily choose a contract carpark near where you work before you start your job, or have to find the details from a random poster, 
 
-Very simple, I'll add more features in future, but this is just very simple
+get the price of the contact before you send your details, rather than getting spammed constantly if you decide not to take it
 
-Added a very simple editor
-
-#### Future plans
-* ~~Make it a simple editor, that generates the files themselves~~
-* Generate HTML pages from the CommonMark so that can be hosted outside of github.io
+also it has the option of what is JustPark (I didn't know this existed, and once I found out competion is always good)
 
 ---
-[GitHub Link](https://github.com/keloran/staticg)
----
+[GitHub Link](https://github.com/carprks)
+--
+[Company Site](https://carpark.ninja)
+--
 [Home](/)
+

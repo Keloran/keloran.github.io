@@ -7,7 +7,7 @@ BugFix.es tracks bugs, so if a bug is sent to the system and it hasn't been seen
 it creates a ticket / notification so development on it can be tracked/done
 
 #### Why is it needed
-iIf your getting a bug that occurs once every 10k hits it only triggers once, the same happens if your getting a bug that triggers every hit only create 1 ticket, don't create hundreds
+If your getting a bug that occurs once every 10k hits it only triggers once, the same happens if your getting a bug that triggers every hit only create 1 ticket, don't create hundreds
 
 signal over noise is what is needed when it comes to triggered bugs, if all you get is noise you have no idea what the actual issue is and how much it actually affects
 
