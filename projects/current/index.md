@@ -14,9 +14,11 @@ Started a index generator, all it does is reads the projects and blog directory,
 Very simple, I'll add more features in future, but this is just very simple
 
 Added a very simple editor
+Added an RSS generator
 
 #### Future plans
 * ~~Make it a simple editor, that generates the files themselves~~
+* ~~Added RSS generator~~
 * Generate HTML pages from the CommonMark so that can be hosted outside of github.io
 
 ---
