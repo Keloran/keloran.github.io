@@ -1,7 +1,14 @@
 theme: jekyll-theme-hacker
 title: [Keloran blog and random stuff]
+url: "https://www.keloran.dev"
 
 analytics:
-  provider: "google"
+  provider: "google-universal"
   google:
     tracking_id: UA-4194218-11
+
+atom_feed:
+  path:
+
+plugins:
+  - jekyll-feed
