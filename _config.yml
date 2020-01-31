@@ -1,2 +1,7 @@
 theme: jekyll-theme-hacker
 title: [Keloran blog and random stuff]
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-4194218-11
