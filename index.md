@@ -10,6 +10,7 @@
 * [Minecraft Query](/projects/current/minecraft-query.md)
 * [CarPark.Ninja](/projects/current/carpark.ninja.md)
 
----
-#### Feed
-[Link](./feed.xml)
+### [Other Links]
+* [RSS Feed](/feed.xml)
+* [CV](https://cv.develbox.info)
+
