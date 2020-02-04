@@ -1,8 +1,8 @@
 ### Blog
-* [Basic Editor](/blog/basic_editor.md)
-* [Static Generator](/blog/static.md)
-* [Going back to BugFix.es](/blog/going_back_to_bugfix.es.md)
-* [BugFix.es Progress](/blog/bugfix.es_progress.md)
+* [Basic Editor](/blog/basic_editor.html)
+* [Static Generator](/blog/static.html)
+* [Going back to BugFix.es](/blog/going_back_to_bugfix.es.html)
+* [BugFix.es Progress](/blog/bugfix.es_progress.html)
 
 ---
 ### ZSH Plugin
