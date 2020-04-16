@@ -1,7 +1,7 @@
 ### Current Projects
-* [BugFix.es](/projects/current/bugfix.es.html)
-* [Minecraft Query](/projects/current/minecraft-query.html)
-* [CarPark.Ninja](/projects/current/carpark.ninja.html)
+* [BugFix.es](/./projects/current/bugfix.es.html)
+* [Minecraft Query](/./projects/current/minecraft-query.html)
+* [CarPark.Ninja](/./projects/current/carpark.ninja.html)
 
 ---
 ### Static Generator
