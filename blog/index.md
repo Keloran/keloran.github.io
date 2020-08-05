@@ -1,24 +1,33 @@
 ### Blog
-* [ZSH Plugin](/./blog/zsh_plugin.html)
-* [BugFix.es Progress](/./blog/bugfix.es_progress.html)
-* [Going back to BugFix.es](/./blog/going_back_to_bugfix.es.html)
-* [Static Generator](/./blog/static.html)
-* [Basic Editor](/./blog/basic_editor.html)
+* [ZSH Plugin](/blog/zsh_plugin.html)
+* [Keyboard madness](/blog/keyboard_madness.html)
+* [Basic Editor](/blog/basic_editor.html)
+* [BugFix.es Progress](/blog/bugfix.es_progress.html)
+* [Static Generator](/blog/static.html)
 
 ---
-### Keyboard madness
-Well I finally pulled the plug and bought a Planck, 
+### Going back to BugFix.es
+#### 2019-12-05
+I have decided to go back to BugFix.es and re-start development
 
-rather than build my own though I went with a [Planck EZ](https://ergodox-ez.com/pages/planck)
- also rather than buy 1 like any sensible person, when it costs nearly 300 quid, I bought 2
+mainly this is due to me needing a common bug/issue tracking system (this is not a ticket system like jira)
 
-and because obviously I'm npt to be trusted I decided to flash one and learn Workman, I have a couple of firmwares if anyone else is insane like me
+BugFix.es tracks bugs, so if a bug is sent to the system and it hasn't been seen before or was seen a long time ago, or is happening a lot in a short period of time
+it creates a ticket / notification so development on it can be tracked/done
 
-[Workman](https://configure.ergodox-ez.com/planck-ez/layouts/4OG3M/latest/0) this layout is workman, but also moves the numbers on the upper layer to a reverse T pattern is the easiest way to explain it
+#### Why is it needed
+If your getting a bug that occurs once every 10k hits it only triggers once, the same happens if your getting a bug that triggers every hit only create 1 ticket, don't create hundreds
 
-[Keloran](https://configure.ergodox-ez.com/planck-ez/layouts/9wP73/latest/0) this is qwerty, but with its numbers also in the reverse T pattern
+signal over noise is what is needed when it comes to triggered bugs, if all you get is noise you have no idea what the actual issue is and how much it actually affects
 
-they are really good keyboards, and I would honestly say one of the best keyboard I've ever owned
+#### What I'm doing atm
+So I've updated the NPM currently all it will do is console output since no-one has any API keys to send them to the brain
+
+I am also in the process of creating the API side again (it was very much unmaintainable) and then I will start issuing API keys to a select group so that the brain can start getting trained
+
+Once the brain is trained I will open the API up the public
+
 ---
-
+[Github Link](https://github.com/bugfixes)
+--
 [Home](/)

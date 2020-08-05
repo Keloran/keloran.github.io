@@ -1,27 +1,18 @@
 ### Current Projects
-* [BugFix.es](/./projects/current/bugfix.es.html)
-* [Minecraft Query](/./projects/current/minecraft-query.html)
-* [CarPark.Ninja](/./projects/current/carpark.ninja.html)
+* [BugFix.es](/projects/current/bugfix.es.html)
+* [Static Generator](/projects/current/staticg.html)
+* [Minecraft Query](/projects/current/minecraft-query.html)
+* [CarPark.Ninja](/projects/current/carpark.ninja.html)
 
 ---
-### Static Generator
-Started a index generator, all it does is reads the projects and blog directory,
-* if there are pages in the project folder
-  * current folder, add to that section
-  * past folder, add to that section
-* if its in blog folder it adds those to that section
+### Dotfiles Loader
+#### 2020-08-05
+I've decided that I should really get my dotfiles into some sort of managable fashion, whilst yes it does work at the moment, it would be better to have some sort of fallback design so that if the installs fails it doesn'
+t have to basiclly start all over again
 
-Very simple, I'll add more features in future, but this is just very simple
-
-Added a very simple editor
-Added an RSS generator
-
-#### Future plans
-* ~~Make it a simple editor, that generates the files themselves~~
-* ~~Added RSS generator~~
-* Generate HTML pages from the CommonMark so that can be hosted outside of github.io
-
+It follows a very simple syntax of folders and json files so that it knows what todo, it only really works on osx but I have it building in linux and macos
 ---
-[GitHub Link](https://github.com/keloran/staticg)
----
+
+[Dotfiles Loader](https://github.com/Keloran/dotfilesLoader)
+--
 [Home](/)
